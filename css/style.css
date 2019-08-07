@@ -1,0 +1,50 @@
+html, body{
+  font-family: 'Baloo Chettan', cursive;
+  background-image: url('https://media.giphy.com/media/JoVV55m3KZHdxlpFZ6/giphy.gif');
+  background-size: cover;
+  text-align: center;
+
+}
+
+h1{
+  color:green;
+  background-color: red;
+}
+
+h2{
+  color:purple;
+}
+
+h3{
+  color:blue;
+}
+
+p,ol,ul{
+  color:yellow;
+
+
+}
+
+#list p {
+  color:red;
+
+}
+
+img{
+  border-radius: 50%;
+}
+
+.width{
+  max-width: 800px;
+  margin: 0 auto;
+
+}
+
+#listTwo p {
+  color:purple;
+}
+
+#progress p {
+  background-color: white;
+  color:black;
+}
